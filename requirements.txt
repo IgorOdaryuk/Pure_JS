@@ -1,0 +1,13 @@
+Webpack
+ Babel
+ Scss
+ Eslint
+ 2 modes 
+ - dev
+ dev server, sourcemaps, eslint, not min JS&css
+ - prod
+ minif code
+
+
+Git
+
